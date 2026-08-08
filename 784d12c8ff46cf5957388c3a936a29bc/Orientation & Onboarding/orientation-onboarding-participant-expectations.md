@@ -26,10 +26,3 @@ Our expectations of all participants are as follows:
 The SAB Foundation Tholoana Enterprise Programme is a transformative opportunity for high-potential businesses with the desire to succeed. Once you have been accepted for participation, a holistic process of self-assessment, goal setting and growth begins. With the help of your designated mentor, you will develop a set of milestones, linked (where appropriate) to possible investment finance. The intention is to lay the right foundations to support your growth and development, both during the course of the programme and beyond. Our aim is to help you build a business that can succeed well into the future.
 
 The 18-month journey includes a core programme of five practical and inspiring business-skills workshops, ongoing one on one mentorship, access to a range of business growth interventions that include, investment readiness support, brand building initiatives, access to markets as well as SME media. All support t is individually tailored to meet the needs of your business.
-
----
-
-*Environment Details:*
-- Current time: 2026-06-01T16:35:11+02:00
-- Working directory: C:\Users\sinya\Desktop\RokctAI\Monorepo
-- Workspace root folder: C:\Users\sinya\Desktop\RokctAI\Monorepo
