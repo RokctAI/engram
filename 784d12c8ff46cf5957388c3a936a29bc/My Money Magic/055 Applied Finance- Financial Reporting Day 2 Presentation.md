@@ -1,202 +1,84 @@
 # Applied Finance- Financial Reporting Day 2 Presentation
 
-_Type: embed · Section: My Money Magic_
+_Type: pptx · Section: My Money Magic · Source: TP16_Applied Finance_Financial Reports Online_Session 2 (1) (2).pptx_
 
-Skip to content
-Back to course page
-SABF Tholoana Programme (TP17)
-59 %
-Path
-Learners
-Discuss
-1.
-Orientation & Onboarding
+<!-- Slide number: 1 -->
+Welcome to Applied Finance – Financial Reports
 
-LMS Overview
+Session Two
 
-Tholoana Enterprise Programme Brochure
+![](Picture13.jpg)
 
-Introduce yourself
+### Notes:
 
-Participant Expectations
+<!-- Slide number: 2 -->
+CASHFLOW STATEMENT
+CASH FROM OPERATIONS
+Net Income (Profit)
+Adjustment for Non-Cash Transactions
+Adjustment for Working Capital Movements
+CASH FROM INVESTING ACTIVITIES
+Purchases of PPE
+Proceeds from sale of PPE
+Investments (Stocks & Bonds)
+Acquisition of Other businesses
+CASH FINANCING ACTIVITIES FROM
+Grant Finance
+Debt Finance
+Equity Finance
+Repayment / Repurchases
 
-Programme Roadmap
+<!-- Slide number: 3 -->
 
-2.
-Systems Support
+![](Picture13.jpg)
 
-Systems Onboarding - Zoom Recording
+TEA BREAK
 
-01:24:48
-1 hour 24 minutes
+<!-- Slide number: 4 -->
 
-Systems Onboarding - Slides
+![](Picture3.jpg)
 
-Praxis Manual
+# BUDGETING
 
-FT Portal User Guide
+![](Picture10.jpg)
 
-3.
-Personal Transformation & Strategic Planning
+<!-- Slide number: 5 -->
+Some Basic Mistakes
+You need money (funding) to grow
+You need a certain amount (Cost Consciousness)
+You need your own money (Options)
+You need experience upfront (The Illusion of Perfection)
+We want a big business more than profitability
+Don’t be the Value in your Business
 
-Personal Transformation & Strategic Planning | Learner Guide
+Why waste 10 years of your life Building Your Business slowly?
 
-Plan on a Page
+<!-- Slide number: 6 -->
 
-4.
-Costing and Pricing Workshop
+![](Picture9.jpg)
 
-Introduction
+BUDGET VARIANCE ANALYSIS
 
-Video 1: Introduction Video
+<!-- Slide number: 7 -->
 
-01:35
-1 minute 35 seconds
+![](Picture2.jpg)
 
-Video 2: Why is Costing Important?
+# HOW TO IDENTIFY & MITIGATE YOUR FINANCIAL RISK
 
-01:52
-1 minute 52 seconds
+<!-- Slide number: 8 -->
 
-Financial Assessment
+![](Picture3.jpg)
+Q&A
 
-Financial Assessment Activity
+### Notes:
 
-Video 3: Costing terminology (direct & indirect costs)
+<!-- Slide number: 9 -->
 
-06:23
-6 minutes 23 seconds
+![](Picture11.jpg)
 
-Video 4. Costing terminology continued
+# THANK YOU!
 
-01:54
-1 minute 54 seconds
-
-Costing Terminology
-
-Costing Methodologies & Processes
-
-Video 5. Overhead contribution
-
-06:02
-6 minutes 2 seconds
-
-Video 6. Direct Labour costs
-
-07:45
-7 minutes 45 seconds
-
-Direct Labour Costs
-
-Video 7. Costing a service
-
-07:36
-7 minutes 36 seconds
-
-Costing your service
-
-Video 8. Case Study: How to calculate a Breakeven Hourly rate
-
-01:24
-1 minute 24 seconds
-
-Costing in Agriculture
-
-Costing Group Tasks
-
-Costing TEMPLATES
-
-Costing Conclusion
-
-Pricing - the right tools for the job
-
-Pricing Methodologies and Strategies
-
-Pricing Strategies Activity
-
-Pricing Levels Explained
-
-Exporting
-
-Discounts
-
-Terms & Conditions
-
-Creating Effective Pricelists & Sales Proposals
-
-Pricing Conclusion
-
-Costing and Pricing Leaner Guide
-
-5.
-My Money Magic
-
-Emotions of Money Pre-work
-
-Emotions of Money Webinar Recording
-
-Emotions of Money Master Class Presentation
-
-Session 1: Personal Finance Coaching - Debt Management
-
-Session 2: Personal Finance Coaching - Debt Management
-
-Session 3: Personal Finance Coaching - Debt Management
-
-Session 4: Personal Finance Coaching - Debt Management
-
-Session 5: Personal Finance Coaching - Debt Management
-
-My Money Personality
-
-How to Calculate Debt
-
-Money Templates
-
-Session 1: Personal Finance Coaching - Savings & Investments
-
-Session 2: Personal Finance Coaching - Savings & Investments
-
-Session 3: Personal Finance Coaching - Savings & Investments
-
-Session 4: Personal Finance Coaching - Savings & Investments
-
-Session 5: Personal Finance Coaching - Savings & Investments
-
-Pre-Work Checklist
-
-SMEasy Training recording
-
-Applied Finance - Financial Reporting Day1 Recording
-
-Applied Finance- Financial Reporting Day 2 Recording
-
-Applied Finance- Financial Reporting Day 1 Presentation
-
-Applied Finance- Financial Reporting Day 2 Presentation
-
-Applied Finance - Cashflow Management Recording
-
-Applied Finance - Cashflow Management Presentation
-
-Introduction to Financial Systems- Xero
-
-Introduction to Financial Systems- Sage
-
-6.
-Digital Marketing Kickstart Series
-7.
-Practical Business Finance
-soon
-8.
-Sales & Marketing
-soon
-9.
-Investment Readiness
-soon
-10.
-Personal Finance Coaching Sessions
-previous
-next
-Now entering "Applied Finance- Financial Reporting Day 2 Presentation"
-Back to sidebar
+Block C, 1st Floor, Plum Park, Gabriel Road, Plumstead, Cape Town 7800
+Tel: +2786 1111 690
+Mobile: 082 9097234
+fnbimpactlab@fetola.co.za
