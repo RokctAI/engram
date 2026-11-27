@@ -1,202 +1,316 @@
 # Applied Finance- Financial Reporting Day 1 Presentation
 
-_Type: embed · Section: My Money Magic_
+_Type: pptx · Section: My Money Magic · Source: TP16_Applied Finance_Financial Reports Online_Session 1 (1).pptx_
+
+<!-- Slide number: 1 -->
 
-Skip to content
-Back to course page
-SABF Tholoana Programme (TP17)
-59 %
-Path
-Learners
-Discuss
-1.
-Orientation & Onboarding
+![](Picture13.jpg)
 
-LMS Overview
+Welcome to the Applied Finance- Financial Reporting Webinar
+Session One
 
-Tholoana Enterprise Programme Brochure
+### Notes:
 
-Introduce yourself
+<!-- Slide number: 2 -->
+YOUR FACILITATOR
+Ntando Maseko
 
-Participant Expectations
+![A picture containing person, person, player, sport Description automatically generated](Picture6.jpg)
+Entrepreneur, Author and Facilitator
+
+Ntando has extensive experience as a:
+Business Coach is a Master NLP Trainer
+MBA Graduate & Management Consultant
+Entrepreneur & Online Radio Show Host
+Ph.D. Organisational Leadership Candidate
+Author of the fast-selling book : Welcome to Financial Freedom
 
-Programme Roadmap
+<!-- Slide number: 3 -->
+# WHY FINANCE?
 
-2.
-Systems Support
+![](Picture11.jpg)
 
-Systems Onboarding - Zoom Recording
+Ask your Bookkeeper the right Questions
+Plan for Growth using Financial Data
+Make your business attractive to funders
+Avoid crippling Debt
+Not be Shy, when its time to talk Finance
 
-01:24:48
-1 hour 24 minutes
+<!-- Slide number: 4 -->
+Pre-work Feedback
 
-Systems Onboarding - Slides
+### Chart
 
-Praxis Manual
+| Category | Sales |
+|---|---|
+| 1st Qtr | 0.3636 |
+| 2nd Qtr | 0.3636 |
+| 3rd Qtr | 0.2727 |
+| None | None || Can you comment on your business’s financial health? | ResponsePercent |
+| --- | --- |
+| I try hard to make ends meet, and it’s really nerve-wracking. I need to work with someone who can explain these reports to me and tell me whether my business is financially healthy… and where to improve (1). | 36,36% |
+| I have good information on my sales and expenses and can see that my business is profitable, and I know what I should pay attention to. I could do with some more guidance on cash flow, tax and budgeting (2). | 36,36% |
+| I know exactly what my current financial challenges and strengths are (3). | 27,27% |
 
-FT Portal User Guide
+### Notes:
 
-3.
-Personal Transformation & Strategic Planning
+<!-- Slide number: 5 -->
+Pre-work Feedback
 
-Personal Transformation & Strategic Planning | Learner Guide
+### Chart
 
-Plan on a Page
+| Category | Column1 |
+|---|---|
+| 1st Qtr | 0.0909 |
+| 2nd Qtr | 0.5455 |
+| 3rd Qtr | 0.3636 || Do you have a good invoicing system in place? | ResponsePercent |
+| --- | --- |
+| We do not have any financial management systems in place. We have limited time to generate invoices once the service/project is complete and we often fall behind. We also do not track payments (1). | 9,09% |
+| We send invoices out, and reminders the following month. The trouble is that we don’t have time to track unpaid invoices, so we often have bad debts (2). | 55% |
+| As soon as we’ve provided our service, we send an invoice along with a customer’s evaluation form, and a thank you note for their business. (3). | 36,36% |
 
-4.
-Costing and Pricing Workshop
+### Notes:
 
-Introduction
+<!-- Slide number: 6 -->
+Pre-work Feedback
 
-Video 1: Introduction Video
+### Chart
 
-01:35
-1 minute 35 seconds
+| Category | Sales |
+|---|---|
+| 1st Qtr | 0.0909 |
+| 2nd Qtr | 0.7273 |
+| 3rd Qtr | 0.1818 || What cash reserves do you currently have? | ResponsePercent |
+| --- | --- |
+| I have nothing to spare. Business is really tight, and I am always borrowing from one project to pay for another. I never know where my money is and can’t sleep at night! (1). | 18,18% |
+| I don't really know what cash reserves I need and it’s really hard to build up solid cash reserves, but I’ve been able to save something. I am not sure if this is enough, and I often worry about it (2). | 73% |
+| I always keep about 3 months of cash reserve in a special account. This creates an emotional safety net for me and allows me to make wise financial decisions (3). | 9,09% |
+
+### Notes:
+
+<!-- Slide number: 7 -->
+Pre-work Feedback
+
+### Chart
+
+| Category | Sales |
+|---|---|
+| 1st Qtr | 0.1818 |
+| 2nd Qtr | 0.3636 |
+| 3rd Qtr | 0.4545 || Do you know your debtors, creditors and stock turnover? | ResponsePercent |
+| --- | --- |
+| My business is small, and I know my customers and providers personally. I know approximately who owes me what, what I owe to others. We don’t have a stock management system in place. If needed, I run to purchase what’s missing for the business (1). | 18% |
+| We give credit to our regular customers so that they keep coming. I do worry though that some customers forget to pay me, but I don't have time to chase them or check what’s outstanding (2). | 45,45% |
+| I know exactly who I owe money to, and who owes me. I manage this on a strict system and chase any bad debts. I ensure that all work has been invoiced and paid for on a monthly basis (3). | 36,36% |
+
+### Notes:
 
-Video 2: Why is Costing Important?
+<!-- Slide number: 8 -->
+Pre-work Feedback
 
-01:52
-1 minute 52 seconds
+### Chart
 
-Financial Assessment
+| Category | Sales |
+|---|---|
+| 1st Qtr | 0.1818 |
+| 2nd Qtr | 0.5455 |
+| 3rd Qtr | 0.2727 || Do you know your business Debt Ratio? | ResponsePercent |
+| --- | --- |
+| I’ve invested and borrowed quite a lot to get my business started, but I am not sure exactly how much. Hope the ratio is good (1). | 54,55% |
+| My bookkeeper gives me monthly financial reports, including the Debt ratio but I can’t really make sense of them (2). | 18% |
+| We are in the service business. I don’t have many assets, and I stay away from having debts, so I think my ratio must be good (3). | 27,27% |
 
-Financial Assessment Activity
+### Notes:
 
-Video 3: Costing terminology (direct & indirect costs)
+<!-- Slide number: 9 -->
 
-06:23
-6 minutes 23 seconds
+![](Diagram36.jpg)
+From daily entries to financial reports
+Accurate record keeping of daily transactions, lead to accurate monthly reports which ultimately lead to meaningful data for financial decision-making.
 
-Video 4. Costing terminology continued
+### Notes:
 
-01:54
-1 minute 54 seconds
+<!-- Slide number: 10 -->
 
-Costing Terminology
+![](Picture1.jpg)
 
-Costing Methodologies & Processes
+Understanding your Financial Reports
 
-Video 5. Overhead contribution
+<!-- Slide number: 11 -->
 
-06:02
-6 minutes 2 seconds
+![](Picture5.jpg)
 
-Video 6. Direct Labour costs
+# The Balance Sheet
 
-07:45
-7 minutes 45 seconds
+<!-- Slide number: 12 -->
+SNAPSHOT – AS AT….
+THINGS AND STUFF
+OWE
+OWN
 
-Direct Labour Costs
+<!-- Slide number: 13 -->
+A = L + E
+ASSETS (R500)
+LIABILITIES (R350)
+Current Liabilities
+Current Assets
+Cash and Equivalents
+Stock/Inventory
+Prepaid Expenses
+Accounts Receivable
+Long-Term Liabilities
+EQUITY (R ?)
+RETAINED EARNINGS
+Long-Term Assets
+Machinery & Equipment
+Motor Vehicles
+Computers Equipment
+Land and Buildings
+DIRECTORS CONTRIBUTIONS
 
-Video 7. Costing a service
+<!-- Slide number: 14 -->
 
-07:36
-7 minutes 36 seconds
+![](Picture2.jpg)
 
-Costing your service
+Income Statement
 
-Video 8. Case Study: How to calculate a Breakeven Hourly rate
+<!-- Slide number: 15 -->
+| Income Statement For the Period | Business A R |
+| --- | --- |
+| Sales / Revenue / Turnover / Income | 100 000 |
+| Expenses (C.O.S/Overheads) | 80 000 |
+| Profit/Loss | 20 000 |
+| Business B R |
+| --- |
+| 1 000 000 |
+| 980 000 |
+| 20 000 |
+| Business C R |
+| --- |
+| 50 000 |
+| 20 000 |
+| 30 000 |
 
-01:24
-1 minute 24 seconds
+<!-- Slide number: 16 -->
+Trends
 
-Costing in Agriculture
+![](ContentPlaceholder3.jpg)
 
-Costing Group Tasks
+<!-- Slide number: 17 -->
+Trends
 
-Costing TEMPLATES
+![](Picture3.jpg)
 
-Costing Conclusion
+<!-- Slide number: 18 -->
 
-Pricing - the right tools for the job
+![](Picture3.jpg)
+# Ambition & Goals
 
-Pricing Methodologies and Strategies
+![](Picture10.jpg)
 
-Pricing Strategies Activity
+<!-- Slide number: 19 -->
 
-Pricing Levels Explained
+![](Picture9.jpg)
+Benchmarks
 
-Exporting
+<!-- Slide number: 20 -->
 
-Discounts
+![](Picture4.jpg)
 
-Terms & Conditions
+# The Tide
 
-Creating Effective Pricelists & Sales Proposals
+<!-- Slide number: 21 -->
 
-Pricing Conclusion
+![](Picture5.jpg)
 
-Costing and Pricing Leaner Guide
+<!-- Slide number: 22 -->
+THE HIERACHY
+IMPACT
 
-5.
-My Money Magic
+![A picture containing table Description automatically generated](Picture10.jpg)
+CASH
+PROFIT
+SALES
+FACTORS OF PRODUCTION
+ASSETS
 
-Emotions of Money Pre-work
+<!-- Slide number: 23 -->
 
-Emotions of Money Webinar Recording
+![](Picture13.jpg)
 
-Emotions of Money Master Class Presentation
+TEA BREAK
 
-Session 1: Personal Finance Coaching - Debt Management
+<!-- Slide number: 24 -->
+CASHFLOW STATEMENT
+CASH FROM OPERATIONS
+Net Income (Profit)
+Adjustment for Non-Cash Transactions
+Adjustment for Working Capital Movements
+CASH FROM INVESTING ACTIVITIES
+Purchases of PPE
+Proceeds from sale of PPE
+Investments (Stocks & Bonds)
+Acquisition of Other businesses
+CASH FINANCING ACTIVITIES FROM
+Grant Finance
+Debt Finance
+Equity Finance
+Repayment / Repurchases
 
-Session 2: Personal Finance Coaching - Debt Management
+<!-- Slide number: 25 -->
 
-Session 3: Personal Finance Coaching - Debt Management
+![](Picture2.jpg)
 
-Session 4: Personal Finance Coaching - Debt Management
+# Managing your money
 
-Session 5: Personal Finance Coaching - Debt Management
+<!-- Slide number: 26 -->
 
-My Money Personality
+![](Picture3.jpg)
 
-How to Calculate Debt
+Cash Reserves
 
-Money Templates
+<!-- Slide number: 27 -->
+Break Even Analysis
 
-Session 1: Personal Finance Coaching - Savings & Investments
+![A screenshot of a cell phone Description automatically generated](ContentPlaceholder4.jpg)
 
-Session 2: Personal Finance Coaching - Savings & Investments
+<!-- Slide number: 28 -->
 
-Session 3: Personal Finance Coaching - Savings & Investments
+![](Picture3.jpg)
 
-Session 4: Personal Finance Coaching - Savings & Investments
+# BUDGETING
 
-Session 5: Personal Finance Coaching - Savings & Investments
+<!-- Slide number: 29 -->
+Some Basic Mistakes
+You need money (funding) to grow
+You need a certain amount (Cost Consciousness)
+You need your own money (Options)
+You need experience upfront (The Illusion of Perfection)
+We want a big business more than profitability
+Don’t be the Value in your Business
 
-Pre-Work Checklist
+Why waste 10 years of your life Building Your Business slowly?
 
-SMEasy Training recording
+<!-- Slide number: 30 -->
 
-Applied Finance - Financial Reporting Day1 Recording
+![](Picture9.jpg)
 
-Applied Finance- Financial Reporting Day 2 Recording
+BUDGET VARIANCE ANALYSIS
 
-Applied Finance- Financial Reporting Day 1 Presentation
+<!-- Slide number: 31 -->
 
-Applied Finance- Financial Reporting Day 2 Presentation
+![](Picture3.jpg)
+Q&A
 
-Applied Finance - Cashflow Management Recording
+### Notes:
 
-Applied Finance - Cashflow Management Presentation
+<!-- Slide number: 32 -->
 
-Introduction to Financial Systems- Xero
+![](Picture11.jpg)
 
-Introduction to Financial Systems- Sage
+# THANK YOU!
 
-6.
-Digital Marketing Kickstart Series
-7.
-Practical Business Finance
-soon
-8.
-Sales & Marketing
-soon
-9.
-Investment Readiness
-soon
-10.
-Personal Finance Coaching Sessions
-previous
-next
-Now entering "Applied Finance- Financial Reporting Day 1 Presentation"
-Back to sidebar
+Block C, 1st Floor, Plum Park, Gabriel Road, Plumstead, Cape Town 7800
+Tel: +2786 1111 690
+Mobile: 082 909 7234
+sabfoundationtholoana@fetola.co.za
