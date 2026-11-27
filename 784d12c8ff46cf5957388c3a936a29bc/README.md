@@ -17,6 +17,7 @@ Lessons copied from the Fetola LearnWorlds portal (course `sabftp17`). Each less
 | 9 | Sales & Marketing | Not released on the portal yet ("soon"). Folder holds TP16 guides only. |
 | 10 | Investment Readiness | Not released on the portal yet ("soon"). Folder holds the TP16 deck only. |
 | 11 | Personal Finance Coaching Sessions | Not released on the portal yet ("soon"). No folder yet. |
+| 12 | People Management | Done: HR Tools and Templates pack (39 docs: contracts, labour relations, recruitment, interns, performance, Acts summaries, health and safety). Three scanned PDFs have no text (see below). |
 
 ## Not here yet
 
@@ -26,4 +27,5 @@ Lessons copied from the Fetola LearnWorlds portal (course `sabftp17`). Each less
 - **Canva decks:** Digital Marketing slides (`061`, `062`, `065`, `069`) and the W2/W3 templates and examples are Canva links only; slide text is not copied.
 - **External pages:** `042 My Money Personality` (empower.me quiz) and `050 Pre-Work Checklist` (Mailchimp page) are links only.
 - **Forms and submissions:** "Introduce yourself", "Submit Your Pitch Video" and "Submit Your Pitch Deck" are upload/form pages with no lesson content.
+- **People Management scans:** `Health and Safety Inspection at your workplace _Fire Safety`, `6.1 Appendix why good people leave_SAB` and `TP 17 Intro to Acts_SAB` are image-only PDFs; their md holds no text yet (needs OCR).
 - **Modules 9 to 11** above, until the portal releases them.
